@@ -8,8 +8,8 @@ packages = [{include = "sos_game"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-pygame = "^2.1.2"
 numpy = "^1.23.5"
+pygame = "^2.5.0"
 
 
 [build-system]
